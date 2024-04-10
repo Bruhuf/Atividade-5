@@ -22,4 +22,4 @@ $\sqrt{3x+8}$-1
 $\frac{2}{5}$
 
 
-$\sqrt3x^4+6x^5-2xfrac4$
+$\sqrt{3x^4+6x^5-2x}frac{4}$
