@@ -13,4 +13,4 @@ comando de fórmulas
 $\sqrt25$
 
 
-$\sqrt36$
+$\sqrt36=6$
