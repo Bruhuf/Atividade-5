@@ -8,4 +8,5 @@ Em resumo, o estudo é um investimento valioso que pode melhorar significativame
 ![](![](https://media1.tenor.com/m/IrIItfk0NLAAAAAC/student-stude.gif)
 ![](https://media.tenor.com/mkyTkSfGvFEAAAAM/cool-fun.gif)
 ![]
-![](https://images.app.goo.gl/m9Ef8ZUaPGr9tewj9)
+(https://images.app.goo.gl/m9Ef8ZUaPGr9tewj9)
+![]
